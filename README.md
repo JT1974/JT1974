@@ -45,7 +45,7 @@
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -53,32 +53,27 @@
 
 ## Currently learning about...
 
-<!-- GraphQL, Next.js, Typescript, JASMINE, JEST -->
+<!-- Next.js, Typescript -->
 
 <p align='left'>
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ## Working on...
 
 <ul>
-<li>Frontend Mentor UI challenges</li>
-<li>Scrimba coding challenges</li>
-<li>Hackerrank coding challenges</li>
-<li>a production planning full-stack application (MERN)</li>
+<li>Multiple company websites</li>
+<li>A company process management application</li>
+<li>Frontend for different AI applications</li>
 </ul>
 
 ## Looking for...
 
 <ul>
-<li>Collaboration in any kind of coding projects, preferably React based</li>
+<li>Collaboration in any kind of coding projects, preferably React/TS based</li>
 <li>Open-source projects to contribute to</li>
-<li>Opportunities to learn and practice more, and more</li>
-<li>Software developer job or internship</li>
+<li>Opportunities to learn and practice</li>
 </ul>
 
 ## Tools I use...
