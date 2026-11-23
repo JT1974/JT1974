@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="https://presoft.hu"><img src="logo.svg" width="96" height="96" alt="presoft logó"></a>
+  <a href="https://presoft.hu"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-sotet.svg">
+    <img src="logo-vilagos.svg" width="96" height="96" alt="presoft logó">
+  </picture></a>
 </p>
 
 <h1 align="center">presoft</h1>
